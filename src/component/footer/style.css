@@ -1,0 +1,13 @@
+.footer-flex {
+    display: flex;
+    list-style: none;
+    padding-left: 60px;
+
+}
+
+.footer-href {
+    color: #de3334;
+    font-size: 14px;
+    margin-right: 36px;
+    text-decoration: none;
+}
