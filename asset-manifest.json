@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/scadia-mockup/static/css/main.dbd28622.chunk.css",
+    "main.js": "/scadia-mockup/static/js/main.614d88ae.chunk.js",
+    "main.js.map": "/scadia-mockup/static/js/main.614d88ae.chunk.js.map",
+    "runtime-main.js": "/scadia-mockup/static/js/runtime-main.2177130a.js",
+    "runtime-main.js.map": "/scadia-mockup/static/js/runtime-main.2177130a.js.map",
+    "static/js/2.a79b6b31.chunk.js": "/scadia-mockup/static/js/2.a79b6b31.chunk.js",
+    "static/js/2.a79b6b31.chunk.js.map": "/scadia-mockup/static/js/2.a79b6b31.chunk.js.map",
+    "static/js/3.c872811e.chunk.js": "/scadia-mockup/static/js/3.c872811e.chunk.js",
+    "static/js/3.c872811e.chunk.js.map": "/scadia-mockup/static/js/3.c872811e.chunk.js.map",
+    "index.html": "/scadia-mockup/index.html",
+    "static/css/main.dbd28622.chunk.css.map": "/scadia-mockup/static/css/main.dbd28622.chunk.css.map",
+    "static/js/2.a79b6b31.chunk.js.LICENSE.txt": "/scadia-mockup/static/js/2.a79b6b31.chunk.js.LICENSE.txt",
+    "static/media/logo.e9f7abb2.svg": "/scadia-mockup/static/media/logo.e9f7abb2.svg",
+    "static/media/logo2.2df419a3.svg": "/scadia-mockup/static/media/logo2.2df419a3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2177130a.js",
+    "static/js/2.a79b6b31.chunk.js",
+    "static/css/main.dbd28622.chunk.css",
+    "static/js/main.614d88ae.chunk.js"
+  ]
+}
