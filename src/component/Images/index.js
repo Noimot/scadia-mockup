@@ -6,7 +6,7 @@ function Images({ imageList }) {
     return (
         <div className='images-div-img'>
             <img src={imageList.imageUrl} alt="movie-image" height="300" width="230px" />
-            <p>{imageList.movieTitle}</p>
+            <p style={{ color: '#5f6368', fontSize: '0.875rem' }}>{imageList.movieTitle}</p>
 
         </div>
 

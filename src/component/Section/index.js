@@ -16,7 +16,7 @@ export const Section = ({ logo2 }) => {
 export const SecondSection = () => {
     return(
         <div className="div-container">
-        <Button text={"Try Stadia Pro free for 1 month"} cssClass="BigButton"/>
+        <Button text="Try Stadia Pro free for 1 month" cssClass="BigButton"/>
         <p style={{color:'#5f6368'}}><sup>1</sup>$9.99/mo after trial, cancel anytime.</p>
       </div>
     )
